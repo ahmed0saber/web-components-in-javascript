@@ -1,0 +1,9 @@
+.home-page h1 {
+    color: #101010;
+}
+
+.home-page p {
+    color: #101010;
+    opacity: 0.8;
+    margin-top: 12px;
+}
